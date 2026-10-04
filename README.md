@@ -28,6 +28,3 @@ VeloxRouter is a modular ecosystem built for modern PHP 8.2+, designed for speed
 ## 📄 License
 
 Open-source software licensed under the [MIT license](https://www.google.com/search?q=LICENSE).
-
-
-```
