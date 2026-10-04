@@ -1,6 +1,6 @@
 # VeloxRouter
 
-> A high-performance, minimalist PHP router framework inspired by Fiber and FastAPI.
+> A high-performance, minimalist PHP router framework inspired by Go Fiber and Python FastAPI.
 
 ## 🚀 About
 
@@ -12,3 +12,22 @@ Install the package via Composer:
 
 ```bash
 composer require veloxrouter/router
+
+```
+
+## 🏛️ Ecosystem
+
+VeloxRouter is a modular ecosystem built for modern PHP 8.2+, designed for speed, developer experience, and zero unnecessary bloat.
+
+| Repository | Description | Installation |
+| --- | --- | --- |
+| **[`router`](https://github.com/VeloxRouter/router)** | Lightning-fast HTTP routing engine | `composer require veloxrouter/router` |
+
+*(More modules coming soon: socket, jwt, ...)*
+
+## 📄 License
+
+Open-source software licensed under the [MIT license](https://www.google.com/search?q=LICENSE).
+
+
+```
